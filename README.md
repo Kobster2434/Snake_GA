@@ -4,8 +4,11 @@ Currently incomplete. Genetic algorithm doesn't work well.
 
 Next steps:
 1: Reinforcement learning
+
 2: Try a more complex genetic algorithm (NEAT?)
-3: Keep current GA system but change how things are chosen (via crossover/mutation). Something such as Tournament rank selection may be sufficient. 
+
+3: Keep current GA system but change how things are chosen (via crossover/mutation). Methods to counteract overcrowding.
+
 4: ... 
 
 I got the snake game from the link below and modified the code appropraitely to fit my purpose. 
