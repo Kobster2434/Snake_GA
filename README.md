@@ -18,4 +18,4 @@ Improvements to make:
 - Show as text what generation and what number of the population to make more user friendly.
 - Record best game each genreation and store best nerual network parameters from this.
 
-Main issue with initial implementation is that it gets stuck at the beginning. Relevant hypothesis aren't going through to the next generation. One fix for this would be to have the neural network clone games that I have played initially to get past this issue. 
+Main issue with initial implementation is that it gets stuck at the beginning. Relevant hypothesis aren't going through to the next generation. One fix for this would be to have the neural network clone my behaviour when playing the game initially to get past this issue. 
