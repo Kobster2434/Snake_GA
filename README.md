@@ -6,4 +6,4 @@ https://code.activestate.com/recipes/578996-snake-the-game/
 
 Currently incomplete.
 
-Personal notes: Need to update to new ANN class and see if this results in any improvement.
+Improvements need to be made so the algorithm works correctly. 
